@@ -20,7 +20,7 @@ export const Container = styled.nav`
 
   p {
     padding: 3rem 1rem 1rem 0;
-    color: #fff;
+    color: var(--white);
     font-size: 0.625rem;
   }
 
@@ -42,7 +42,7 @@ export const ContainerContatos = styled.footer`
     border-bottom: 1px solid #ddd;
     padding-bottom: 0.5rem;
     margin: 0 0 1.5rem;
-    color: #fff;
+    color: var(--white);
   }
 
   a + a {

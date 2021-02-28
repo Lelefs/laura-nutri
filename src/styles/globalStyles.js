@@ -13,6 +13,7 @@ export default createGlobalStyle`
   --text: #85868c;
   --green-light: #84c3c0;
   --green: #378a75;
+  --white: #fff;
 }
 
   body {

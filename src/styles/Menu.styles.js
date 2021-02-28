@@ -7,7 +7,7 @@ export const Container = styled.div`
     0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
   position: sticky;
   top: 0;
-  background: var(--background);
+  background: var(--white);
 
   div {
     display: flex;
