@@ -23,16 +23,12 @@ export default function Sobre() {
           <img src={img} alt="Perdas e luto" width="400px" />
 
           <p>
-            Sou nutricionista, graduada em uma das melhores universidades de São
-            Paulo e pós graduanda em nutrição esportiva.
+            Sou nutricionista, graduada em uma das melhores faculdades privadas
+            de São Paulo e pós graduada em nutrição esportiva.
           </p>
           <p>
             Atuo principalmente nas áreas de emagrecimento, hipertrofia,
             reeducação alimentar e plano alimentar individualizado.
-          </p>
-          <p>
-            Sou muito dedicada, inteligente e canto muito bem
-            <i> (um beijo no ombro pro recalque)</i>.
           </p>
           <p>
             Levo a qualidade de vida através de uma boa alimentação muito a
