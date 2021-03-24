@@ -1,3 +1,5 @@
+![Laura Ribeiro](https://imgs-readme.s3-sa-east-1.amazonaws.com/laura-ribeiro.jpg)
+
 [![Framework](https://badgen.net/badge/Framework/React-static/green)](https://github.com/react-static/react-static)
 [![Style](https://badgen.net/badge/Estilo/Styled-components/blue)](https://styled-components.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -23,5 +25,3 @@ Essa aplicação web foi feita afim de mostrar os serviços prestados pela Laura
 ## ✒️ Autor
 
 * **FSET**
-
-Obrigado por me visitar e bora codar!
