@@ -1,9 +1,10 @@
 import React from 'react';
 import {
-  RiMapPinLine,
-  RiWhatsappLine,
-  RiMailLine,
+  RiFacebookCircleFill,
   RiInstagramLine,
+  RiMapPinLine,
+  RiMailLine,
+  RiWhatsappLine,
 } from 'react-icons/ri';
 
 import { ContainerContatos } from '../styles/Footer.styles';
@@ -16,6 +17,13 @@ export default function Contatos() {
     <ContainerContatos>
       <h2>Contatos</h2>
 
+      <a
+        href="https://www.facebook.com/Laura-Nutricionista-102091401958431/"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <RiFacebookCircleFill color="#fff" size={30} title="Facebook" />
+      </a>
       <a
         href="https://www.instagram.com/lauranutri_/"
         target="_blank"
