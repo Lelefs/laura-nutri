@@ -8,13 +8,14 @@ export default createGlobalStyle`
   }
 
   :root {
-  --background: #f2f3f5;
-  --black: #333;
-  --text: #85868c;
-  --green-light: #84c3c0;
-  --green: #378a75;
-  --white: #fff;
-}
+    --black: #000;
+    --gray-800: #333;
+    --gray: #f2f3f5;
+    --green-light: #84c3c0;
+    --green: #378a75;
+    --text: #85868c;
+    --white: #fff;
+  }
 
   body {
     -webkit-font-smoothing: antialiased;
@@ -28,7 +29,7 @@ export default createGlobalStyle`
 
   #root {
     min-height: 100vh;
-    background: var(--background);
+    background: var(--black);
   }
 
   body, input, button, textarea {

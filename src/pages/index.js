@@ -11,11 +11,7 @@ import Ajuda from '../containers/Ajuda';
 export default () => {
   return (
     <>
-      <SEO
-        title="Laura Ribeiro"
-        description="Laura Ribeiro Nutricionista"
-        shouldExcludeTitleSufix
-      />
+      <SEO title="Início" description="Laura Ribeiro Nutricionista" />
 
       <Menu ativo="home" />
 

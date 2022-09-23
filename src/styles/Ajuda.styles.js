@@ -11,14 +11,14 @@ export const Container = styled.section`
   padding: 1rem;
 
   h2 {
-    color: var(--black);
+    color: var(--white);
     font-size: 3rem;
     margin: 2rem 0;
     text-align: center;
   }
 
   > p {
-    color: var(--text);
+    color: var(--gray);
     font-size: 1.375rem;
     margin-bottom: 2rem;
     text-align: center;
@@ -37,14 +37,14 @@ export const Container = styled.section`
   }
 
   ul li p:first-child {
-    color: var(--black);
+    color: var(--white);
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
     font-weight: bold;
   }
 
   ul li p:last-child {
-    color: var(--text);
+    color: var(--gray);
     font-size: 0.875rem;
   }
 `;

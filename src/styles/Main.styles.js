@@ -18,7 +18,7 @@ export const Container = styled.div`
 
     h2 {
       width: 100%;
-      color: var(--black);
+      color: var(--white);
       font-size: 2rem;
       border-bottom: 1px solid #ddd;
     }
@@ -39,6 +39,7 @@ export const Content = styled.div`
   p {
     margin-bottom: 0.625rem;
     line-height: 1.5;
+    color: var(--gray);
     text-align: justify;
     font-weight: 400;
   }

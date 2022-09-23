@@ -49,14 +49,6 @@ export default function Ajuda() {
             <p>Nutrição na Melhor Idade</p>
             <p>Todo carinho e atenção a quem está na melhor fase da vida.</p>
           </li>
-
-          <li>
-            <p>Nutrição estética</p>
-            <p>
-              Alimentação e nutricosméticos no manejo e suplementação das
-              desordens estéticas.
-            </p>
-          </li>
         </ul>
       </div>
     </Container>

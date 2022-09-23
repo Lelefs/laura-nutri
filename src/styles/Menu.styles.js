@@ -3,11 +3,12 @@ import styled from 'styled-components';
 export const Container = styled.div`
   width: 100%;
   padding: 1rem;
-  box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%),
-    0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+  box-shadow: 0px 3px 1px -2px rgb(255 255 255 / 20%),
+    0px 2px 2px 0px rgb(255 255 255 / 14%),
+    0px 1px 5px 0px rgb(255 255 255 / 12%);
   position: sticky;
   top: 0;
-  background: var(--white);
+  background: var(--black);
 
   div {
     display: flex;
