@@ -8,7 +8,7 @@ export const Container = styled.div`
     0px 1px 5px 0px rgb(255 255 255 / 12%);
   position: sticky;
   top: 0;
-  background: var(--black);
+  background: var(--gray-900);
 
   div {
     display: flex;
@@ -17,7 +17,7 @@ export const Container = styled.div`
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
-    color: var(--green);
+    color: var(--turquoise);
     font-weight: 600;
     font-size: 1.25rem;
     letter-spacing: -1.04537px;
@@ -46,13 +46,13 @@ export const Container = styled.div`
         }
 
         &:hover {
-          border-top: 3px solid var(--green-light);
+          border-top: 3px solid var(--turquoise-light);
         }
       }
 
       .ativo,
       .ativo:hover {
-        border-top: 3px solid var(--green);
+        border-top: 3px solid var(--turquoise);
       }
     }
   }

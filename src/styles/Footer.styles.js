@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Main = styled.div`
   width: 100%;
-  background: var(--green);
+  background: var(--purple);
 `;
 
 export const Container = styled.nav`

@@ -3,7 +3,7 @@ import { Link } from 'components/Router';
 
 import { Container } from '../styles/Menu.styles';
 
-import logoImg from '../assets/logo.jpg';
+import logoImg from '../assets/logo.png';
 
 export default function Menu({ ativo }) {
   return (

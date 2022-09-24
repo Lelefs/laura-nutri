@@ -10,11 +10,16 @@ export default createGlobalStyle`
   :root {
     --black: #000;
     --gray-800: #333;
-    --gray: #f2f3f5;
-    --green-light: #84c3c0;
-    --green: #378a75;
-    --text: #85868c;
-    --white: #fff;
+    --gray-900: #181B23;
+    --gray: #F2F3F5;
+    --green-light: #84C3C0;
+    --green: #378A75;
+    --green-900: #0B503F;
+    --purple: #A27CB7;
+    --text: #85868C;
+    --turquoise: #66C0CD;
+    --turquoise-light: #A5C7D3;
+    --white: #FFF;
   }
 
   body {
@@ -29,7 +34,7 @@ export default createGlobalStyle`
 
   #root {
     min-height: 100vh;
-    background: var(--black);
+    background: var(--gray-900);
   }
 
   body, input, button, textarea {

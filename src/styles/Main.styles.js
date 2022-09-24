@@ -8,6 +8,7 @@ export const Container = styled.div`
 
   .imgHome {
     width: 100%;
+    max-height: 500px;
   }
 
   .titulo {
@@ -18,9 +19,9 @@ export const Container = styled.div`
 
     h2 {
       width: 100%;
-      color: var(--white);
+      color: var(--turquoise);
       font-size: 2rem;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid #66c0cd;
     }
   }
 `;
