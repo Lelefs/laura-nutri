@@ -12,7 +12,7 @@ export default function Ajuda() {
       </p>
 
       <div>
-        <ul>
+        <ul className="lista-padrao">
           <li>
             <p>Nutrição esportiva</p>
             <p>

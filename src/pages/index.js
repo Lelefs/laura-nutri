@@ -7,6 +7,8 @@ import img from '../assets/home.jpg';
 
 import { Container } from '../styles/Main.styles';
 import Ajuda from '../containers/Ajuda';
+import PrimeiraConsulta from '../containers/PrimeiraConsulta';
+import TermoServico from '../containers/TermoServico';
 
 export default () => {
   return (
@@ -23,6 +25,8 @@ export default () => {
         <main>
           <img src={img} alt="Nutrição" className="imgHome" />
           <Ajuda />
+          <PrimeiraConsulta />
+          <TermoServico />
         </main>
       </Container>
     </>
