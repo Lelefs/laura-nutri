@@ -32,7 +32,7 @@ export default function Contatos() {
         <RiInstagramLine color="#fff" size={30} title="Instagram" />
       </a>
       <a
-        href="https://www.google.com/maps/place/Centro,+São+Caetano+do+Sul+-+State+of+São+Paulo"
+        href="https://www.google.com/maps/place/R.+Casemiro+de+Abreu,+14+-+Cer%C3%A2mica,+S%C3%A3o+Caetano+do+Sul+-+SP"
         target="_blank"
         rel="noopener noreferrer"
         className="alinharTopo"
