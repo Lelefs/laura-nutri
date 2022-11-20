@@ -37,15 +37,7 @@ export default function Contatos() {
         rel="noopener noreferrer"
         className="alinharTopo"
       >
-        <RiMapPinLine color="#fff" size={30} title="Consultório 1" />
-      </a>
-      <a
-        href="https://www.google.com/maps/place/R.+Justino+Paix%C3%A3o,+805+-+Jardim+Sao+Caetano,+S%C3%A3o+Caetano+do+Sul+-+SP"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="alinharTopo"
-      >
-        <RiMapPinLine color="#fff" size={30} title="Consultório 2" />
+        <RiMapPinLine color="#fff" size={30} title="Consultório" />
       </a>
       <a
         href="mailto:laura.nutri@hotmail.com"
